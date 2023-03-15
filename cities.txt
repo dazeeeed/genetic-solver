@@ -1,0 +1,13 @@
+12
+City A;11;91
+City B;6;54
+City C;12;8
+City D;5;50
+City E;25;70
+City F;12;17
+City G;38;27
+City H;22;96
+City I;66;13
+City J;98;94
+City K;35;25
+City L;61;70
